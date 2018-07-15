@@ -1,0 +1,7 @@
+- Button icons glow when hovered over.
+- Help screen
+- Score Screen
+- Theme Screen
+- Set up themes
+- Code cleanup
+- Folder cleanup
