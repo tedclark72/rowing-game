@@ -9,5 +9,5 @@ The game also has themes which can change the color of the game and the sprite o
 
 # How to Launch
 1. From the src folder, run Game.java
-2. Download and run Game.jar
+2. Download and run RowingGame.jar
 
