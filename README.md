@@ -8,10 +8,9 @@ The player controls a boat and must avoid the beach and obstacles in order to ma
 The game also has themes which can change the color of the game and the sprite of the boat.
 
 # How to Launch
-From the src folder, run Game.java
+Download and run RowingGame.jar
 
 or 
+Download the src folder, and run Game.java.
 
-
-Download and run RowingGame.jar
 
